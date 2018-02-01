@@ -1,0 +1,17 @@
+{
+  "name": "swimmer1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "swimmer": "^1.2.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
